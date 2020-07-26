@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'au.com.jradams.propertyscraper'
+version '0.1-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.seleniumhq.selenium:selenium-java:3.14.0'
+}
