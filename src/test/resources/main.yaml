@@ -1,0 +1,86 @@
+# Main
+bedrooms: 2
+bathrooms: 2
+carparks: 1
+
+# Price
+minPrice: 300000
+maxPrice: 550000
+
+# Suburbs
+suburbs:
+  - Aberfeldie
+  - Albert Park
+  - Alphington
+  - Armadale
+  - Ashburton
+  - Balwyn North
+  - Beaumaris
+  - Belgrave
+  - Blackburn
+  - Black Rock
+  - Box Hill South
+  - Brunswick
+  - Brunswick East
+  - Burnley
+  - Camberwell
+  - Carlton
+  - Carlton North
+  - Carnegie
+  - Cheltenham
+  - Clifton Hill
+  - Coburg
+  - Collingwood
+  - Cremorne
+  - Deepdene
+  - Docklands
+  - Eaglemont
+  - East Melbourne
+  - Eltham
+  - Essendon
+  - Fairfield
+  - Fitzroy
+  - Flemington
+  - Footscray
+  - Forest Hill
+  - Gardenvale
+  - Glen Iris
+  - Greensborough
+  - Hawthorn
+  - Hawthorn East
+  - Heidelberg
+  - Highett
+  - Ivanhoe East
+  - Kensington
+  - Kew
+  - Kingsville
+  - Montmorency
+  - Moonee Ponds
+  - Moorabbin
+  - Mordialloc
+  - Mount Waverley
+  - Northcote
+  - North Melbourne
+  - Nunawading
+  - Oakleigh
+  - Ormond
+  - Parkdale
+  - Richmond
+  - Rosanna
+  - Sandringham
+  - Seddon
+  - South Melbourne
+  - South Yarra
+  - Spotswood
+  - St Kilda
+  - St Kilda West
+  - Surrey Hills
+  - Tecoma
+  - Travancore
+  - Windsor
+  - Yarraville
+
+# Keywords
+filterOutKeywords:
+  - pool
+  - sauna

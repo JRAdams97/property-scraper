@@ -10,6 +10,10 @@ repositories {
 }
 
 dependencies {
+    testCompileOnly 'org.projectlombok:lombok:1.18.12'
+
+    testImplementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.1'
     testImplementation 'junit:junit:4.12'
+    testImplementation 'org.apache.commons:commons-lang3:3.11'
     testImplementation 'org.seleniumhq.selenium:selenium-java:3.14.0'
 }
